@@ -1,0 +1,4 @@
+' VBA sample - paste into a module in Excel (ALT+F11)
+Sub Show_AI_Instructions()
+    MsgBox "To integrate GenAI: call a local script to send summarized data to an API and paste the response here."
+End Sub
