@@ -1,5 +1,5 @@
 # Data-Analysis-GenAI-Projects
-
+---
 This repository showcases end-to-end projects combining Data Analysis, Cloud (AWS), Storage/Backup Systems, and Generative AI (GenAI).These projects demonstrate my ability to:
 
 • Analyze large datasets using Python, SQL, and Excel
@@ -10,10 +10,11 @@ This repository showcases end-to-end projects combining Data Analysis, Cloud (AW
 
 • Translate IT operations (Storage, Backup, AWS) into business-focused analytics
 
+---
+## 🚀 Projects
+---
 
-**🚀 Projects**
-
-🔹 Project 1: Automated Backup Reporting Dashboard
+🔹 **Project 1: Automated Backup Reporting Dashboard**
 
  •  Built a Power BI dashboard from backup logs.
 
@@ -21,10 +22,11 @@ This repository showcases end-to-end projects combining Data Analysis, Cloud (AW
  
  •  Integrated GenAI summaries for automated reporting.
 
-Tech: Power BI, SQL, Python, GenAI
+**Tech**: Power BI, SQL, Python, GenAI
 
+---
 
-🔹 Project 2: AWS Storage Utilization Analytics
+🔹 **Project 2: AWS Storage Utilization Analytics**
 
  •  Analyzed AWS S3 + Glacier usage data.
 
@@ -32,10 +34,11 @@ Tech: Power BI, SQL, Python, GenAI
 
  •  Integrated GenAI for cost-optimization recommendations.
 
-Tech: Python, Pandas, Matplotlib, AWS, GenAI
+**Tech**: Python, Pandas, Matplotlib, AWS, GenAI
 
+---
 
-🔹 Project 3: Incident Analysis & AI-Enhanced Root Cause Reports
+🔹 **Project 3: Incident Analysis & AI-Enhanced Root Cause Reports**
 
  •  Queried incident logs with SQL to identify recurring issues.
 
@@ -43,10 +46,11 @@ Tech: Python, Pandas, Matplotlib, AWS, GenAI
 
  •  Used GenAI to draft root-cause analysis summaries.
 
-Tech: SQL, Excel, GenAI
+**Tech**: SQL, Excel, GenAI
 
+---
 
-🔹 Project 4: Advanced Excel AI Assistant
+🔹 **Project 4: Advanced Excel AI Assistant**
 
  •  Created Excel dashboards (PivotTables, KPIs).
   
@@ -54,19 +58,22 @@ Tech: SQL, Excel, GenAI
 
  •  Connected Excel with GenAI for natural language Q&A.
 
-Tech: Excel (PivotTables, VBA), GenAI
+**Tech**: Excel (PivotTables, VBA), GenAI
 
+---
+## 🛠️ Tools & Skills Demonstrated
+---
 
-**🛠️ Tools & Skills Demonstrated**
+1. Data Analysis: Python (Pandas, Matplotlib), SQL, Advanced Excel
 
-Data Analysis: Python (Pandas, Matplotlib), SQL, Advanced Excel
+2. Visualization: Power BI, Excel dashboards
 
-Visualization: Power BI, Excel dashboards
+3. Cloud & IT: AWS S3/Glacier, Storage & Backup systems
 
-Cloud & IT: AWS S3/Glacier, Storage & Backup systems
+4. GenAI: Automated summaries, natural language queries, AI-assisted reporting
 
-GenAI: Automated summaries, natural language queries, AI-assisted reporting
-
-**📬 Connect with Me**
+---
+## 📬 Connect with Me
+---
 
 📌 LinkedIn (https://www.linkedin.com/in/shruti-birari) | 📌 GitHub (https://github.com/shrutibirarii/)
